@@ -244,4 +244,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-!/AlgoVis/
+/AlgoVis/
