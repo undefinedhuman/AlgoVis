@@ -3,7 +3,7 @@
 > A program that visualizes basic search and sorting algorithms.
 
 ### [Homepage](https://github.com/undefinedhuman/AlgoVis)
-### [View the Demo](https://github.com/undefinedhuman/AlgoVis/releases)
+### [View the Demo](https://github.com/undefinedhuman/AlgoVis/releases/tag/v1)
 
 ## Prerequisites
 
