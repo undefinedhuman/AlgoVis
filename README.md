@@ -26,7 +26,10 @@ cd AlgoVis
 ```sh
 ./gradlew desktop:run
 
-When running the project under Windows, I had to add the following line to the gradle.properties file to link my Java JDK to the project (the path may be different for other setups):
+When running the project under Windows, I had to add the following line to the 
+gradle.properties file to link my Java JDK to the project 
+(the path may be different for other setups):
+
 org.gradle.java.home=C:\\Program Files\\Java\\jdk1.8.0_131
 ```
 
