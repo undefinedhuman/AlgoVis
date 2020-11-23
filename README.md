@@ -37,11 +37,11 @@ org.gradle.java.home=C:\\Program Files\\Java\\jdk1.8.0_131
 
 - Sometimes the program crashes due to multithreading, especially if the delay is around 100-150
 
-## Screenshots
-
 ## Author
 
 **[Alexander Padberg](https://github.com/undefinedhuman)**
+
+## Screenshots
 
 ![Default](assets/Screenshots/Basis.png)
 
