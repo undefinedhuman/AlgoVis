@@ -1,0 +1,13 @@
+[23-11-2020 - 16-52-19] [Info] Deleted 0 log files!
+[23-11-2020 - 16-52-19] [Info] Successfully created 23-11-2020 - 16-52-19.txt
+[23-11-2020 - 16-52-19] [Info] Log file successfully created!
+[23-11-2020 - 16-52-19] [Info] Config file was loaded successfully!
+[23-11-2020 - 16-52-19] [Info] Loaded language eu_DE successfully!
+[23-11-2020 - 16-52-19] [Info] Textures loaded successfully: [Unknown.png, blank.png]
+[23-11-2020 - 16-52-19] [Info] Texture loaded successfully: [Circle.png]
+[23-11-2020 - 16-53-50] [Info] Quick Sort interrupted!
+[23-11-2020 - 16-54-10] [Info] Binary Search interrupted!
+[23-11-2020 - 16-54-53] [Info] Binary Search interrupted!
+[23-11-2020 - 16-54-56] [Info] Binary Search interrupted!
+[23-11-2020 - 16-56-58] [Info] Config file was saved successfully!
+[23-11-2020 - 16-56-58] [Info] Log file successfully saved!

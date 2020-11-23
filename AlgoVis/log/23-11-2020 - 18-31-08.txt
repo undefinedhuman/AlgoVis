@@ -1,0 +1,18 @@
+[23-11-2020 - 18-31-08] [Info] Deleted 0 log files!
+[23-11-2020 - 18-31-08] [Info] Successfully created 23-11-2020 - 18-31-08.txt
+[23-11-2020 - 18-31-08] [Info] Log file successfully created!
+[23-11-2020 - 18-31-08] [Info] Config file was loaded successfully!
+[23-11-2020 - 18-31-08] [Info] Loaded language eu_DE successfully!
+[23-11-2020 - 18-31-08] [Info] Textures loaded successfully: [Unknown.png, blank.png]
+[23-11-2020 - 18-31-09] [Info] Texture loaded successfully: [Circle.png]
+[23-11-2020 - 18-32-42] [Info] Merge Sort interrupted!
+[23-11-2020 - 18-32-43] [Info] Linear Search interrupted!
+[23-11-2020 - 18-33-12] [Info] Linear Search interrupted!
+[23-11-2020 - 18-33-20] [Info] Bubble Sort interrupted!
+[23-11-2020 - 18-33-21] [Info] Merge Sort interrupted!
+[23-11-2020 - 18-33-22] [Info] Bubble Sort interrupted!
+[23-11-2020 - 18-33-23] [Info] Bubble Sort interrupted!
+[23-11-2020 - 18-33-23] [Info] Bubble Sort interrupted!
+[23-11-2020 - 18-33-27] [Info] Bubble Sort interrupted!
+[23-11-2020 - 18-34-24] [Info] Config file was saved successfully!
+[23-11-2020 - 18-34-24] [Info] Log file successfully saved!

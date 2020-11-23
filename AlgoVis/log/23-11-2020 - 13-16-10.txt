@@ -1,0 +1,9 @@
+[23-11-2020 - 13-16-10] [Info] Deleted 0 log files!
+[23-11-2020 - 13-16-10] [Info] Successfully created 23-11-2020 - 13-16-10.txt
+[23-11-2020 - 13-16-10] [Info] Log file successfully created!
+[23-11-2020 - 13-16-10] [Info] Config file was loaded successfully!
+[23-11-2020 - 13-16-10] [Info] Loaded language eu_DE successfully!
+[23-11-2020 - 13-16-11] [Info] Textures loaded successfully: [Unknown.png, blank.png]
+[23-11-2020 - 13-16-11] [Info] Texture loaded successfully: [Circle.png]
+[23-11-2020 - 13-16-38] [Info] Config file was saved successfully!
+[23-11-2020 - 13-16-38] [Info] Log file successfully saved!

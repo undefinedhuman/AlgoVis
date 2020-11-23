@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+
+    <language name="eu_DE">
+        <string key="Name" value="%name%"/>
+    </language>
+
+    <language name="eu_EN">
+        <string key="Name" value="%name%"/>
+    </language>
+
+</languages>
